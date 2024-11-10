@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Janbout and I'm a Flutter & Dart Devloper, from Syria</h2>
+<h2 align="left">Hi 👋! My name is Janbout and I'm a Backend Devloper, from Syria</h2>
 
 ###
 
