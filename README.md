@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Janbout and I'm a Backend Devloper, from Syria</h2>
+<h2 align="left">Computer Vision & Machine Learning Engineer | Real-time emotion recognition, CNN model deployment, and OpenCV/Mediapipe applications.
+</h2>
 
 ###
 
@@ -37,7 +38,7 @@
   <a href="janbouthakim@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/janbout-hakim-175479223" target="_blank">
+  <a href="www.linkedin.com/in/janbot-hakim-022832389" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/Janbout.Hakim.10?mibextid=ZbWKwL" target="_blank">
